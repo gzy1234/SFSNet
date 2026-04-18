@@ -27,28 +27,6 @@ Object detection in adverse weather remains challenging as visual corruption sev
 
 ---
 
-## Overall Architecture
-
-<!-- 替换为你的 Fig.2 架构图路径 -->
-<p align="center">
-  <img src="assets/architecture.png" width="90%">
-</p>
-
----
-
-## Qualitative Results
-
-<p align="center">
-  <img src="assets/rtts_vis.png" width="45%">
-  &nbsp;
-  <img src="assets/exdark_vis.png" width="45%">
-</p>
-
-<p align="center">
-  <em>Left: Visual comparison on RTTS (Haze). Right: Visual comparison on ExDark (Low-Light).</em>
-</p>
-
----
 
 ## Quantitative Results
 
@@ -70,14 +48,7 @@ Object detection in adverse weather remains challenging as visual corruption sev
 
 If you find this work useful, please consider citing:
 
-```bibtex
-@article{gu2026sfsnet,
-  title     = {SFSNet: Object Detection in Adverse Weather via Active Frequency-Spatial Feature Recovery},
-  author    = {Gu, Zhiyi and Ma, Yingdong},
-  journal   = {Multimedia Systems},
-  year      = {2026}
-}
-```
+
 
 ---
 
